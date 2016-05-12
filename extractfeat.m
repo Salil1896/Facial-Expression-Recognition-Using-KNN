@@ -1,5 +1,5 @@
 
-finds hog features of an image.
+%finds hog features of an image.
 
 %lip 140:195 50:140 
 %eye1 55:105 15:80 
